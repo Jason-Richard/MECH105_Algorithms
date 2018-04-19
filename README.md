@@ -9,10 +9,12 @@ This repository contains multiple algorithms that I developed which apply differ
   * The algorith function is used in the form: Simpson_Richard(x,y) where 
   
   **Inputs:**
+  
      x - independant experimental data 
      y - dependant experimental data
   
   **Outputs:**
+  
      I - the approximate integral
   
 ### 2. False Position Method
@@ -21,6 +23,7 @@ This repository contains multiple algorithms that I developed which apply differ
   * This algorithm can be called using the form: falsePosition(func,xl,xu,es,maxiter) where
   
   **Inputs:**
+  
      func - the function being evaluated
      xl - the lower guess
      xu - the upper guess
@@ -28,6 +31,7 @@ This repository contains multiple algorithms that I developed which apply differ
      maxiter - the maximum number of iterations desired
   
   **Outputs:**
+  
      root - the estimated root location
      fx - the function evaluated at the root location
      ea - the approximate relative error (%)
