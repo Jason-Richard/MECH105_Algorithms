@@ -1,5 +1,5 @@
 # MECH105_Algorithms
-This repository contains multiple algorithms that I developed which apply different numerical methods using MatLab. Each one of these algorithms were created for my MECH 105 class at CSU in the Spring semester of 2018. The algorithms are able to perform different numerical methods, but they also were created to abide by certain guidelines that were based off of different input scenarios. The specific purpose of each algorithms is detailed below.
+This repository contains multiple algorithms that I developed which apply different numerical methods using MatLab. Each one of these algorithms were created for my MECH 105 class at CSU in the Spring semester of 2018. The algorithms are able to perform different numerical methods, but they also were created to abide by certain guidelines that were based off of different input scenarios. The specific purpose of each algorithms is detailed below **as well** as in each algorithm's folder.
 
 ## Algorithms
 
