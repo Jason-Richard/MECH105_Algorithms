@@ -43,9 +43,11 @@ This repository contains multiple algorithms that I developed which apply differ
   * The following form can be used to call the function: luFactor(A) where
   
   **Inputs:**
-  1. A - coefficient matrix
+  
+     A - coefficient matrix
   
   **Outputs:**
-  1. L - lower triangular matrix
-  2. U - upper triangular matrix
-  3. P - the pivot matrix
+  
+     L - lower triangular matrix
+     U - upper triangular matrix
+     P - the pivot matrix
